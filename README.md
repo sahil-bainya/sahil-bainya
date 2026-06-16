@@ -12,10 +12,10 @@
 
 ---
 
-🎓 B.Tech in **AI & ML** @ OIST Bhopal · CGPA **8.44**  
-💻 Building scalable web apps with the **MERN stack**  
-🧠 **200+ LeetCode problems** solved · 100-Day Coding Badge 🏅  
-📍 Bhopal, India
+- B.Tech in **AI & ML** @ OIST Bhopal · CGPA **8.44**  
+- Building scalable web apps with the **MERN stack**  
+- **200+ LeetCode problems** solved  
+- Bhopal, India
 
 ---
 
