@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0D1117&height=250&section=header&text=Sahil%20Bainya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0D1117&height=250&section=header&text=Sahil%20Bainya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Banner"/>
 </div>
 <div align="center">
 
@@ -75,7 +75,7 @@
             <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <a href="https://urbannest-7oez.onrender.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+            <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
           </a>
         </p>
       </div>
