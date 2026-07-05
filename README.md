@@ -19,7 +19,7 @@
 
 ---
 
-- B.Tech in **AI & ML** @ OIST Bhopal · CGPA **8.44**  
+- B.Tech in **AI & ML** @ OIST Bhopal  
 - Building scalable web apps with the **MERN stack**  
 - **200+ LeetCode problems** solved  
 - Bhopal, India
