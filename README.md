@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0D1117&height=250&section=header&text=Sahil%20Bainya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Banner"/>
 </div>
-<div align="center">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -11,10 +10,19 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-bainya-097575327)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sahil_artist)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilbainya2005@gmail.com)
-[![Codolio](https://img.shields.io/badge/Codolio-00ADD8?style=for-the-badge)](https://codolio.com/profile/sahil-bainya)
+<div align="center">
+  <a href="https://linkedin.com/in/sahil-bainya-097575327">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Sahil_artist">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:sahilbainya2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://codolio.com/profile/sahil-bainya">
+    <img src="https://img.shields.io/badge/Codolio-00ADD8?style=for-the-badge" />
+  </a>
 </div>
 
 ---
@@ -56,15 +64,15 @@
 
 ---
 
-## 🧩Projects
+## 🧩 Projects
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">UrbanNest</h3>
       <div align="center">
         <a href="https://urbannest-7oez.onrender.com" target="_blank">
-          <img alt="image" src="https://github.com/user-attachments/assets/51e7ea84-eeb5-4110-b695-dbf0f5b9446e" />
+          <img src="https://github.com/user-attachments/assets/51e7ea84-eeb5-4110-b695-dbf0f5b9446e" width="100%" />
         </a>
         <p>
           <strong>Property listing & rental platform</strong><br/>
@@ -80,11 +88,11 @@
         </p>
       </div>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">InkFlow</h3>
       <div align="center">
         <a href="https://inkflow-black.vercel.app" target="_blank">
-          <img alt="image" src="https://github.com/user-attachments/assets/5eca241b-a503-4876-b01c-4ce2be75e75d"  />
+          <img src="https://github.com/user-attachments/assets/5eca241b-a503-4876-b01c-4ce2be75e75d" width="100%" />
         </a>
         <p>
           <strong>Blog publishing platform</strong><br/>
@@ -100,9 +108,32 @@
         </p>
       </div>
     </td>
+    <td width="33%">
+      <h3 align="center">Sportz</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img width="1363" height="767" alt="Screenshot 2026-08-31 193316" src="https://github.com/user-attachments/assets/7247c498-3b5f-4df7-bcb9-73740f836a33" />
+        </a>
+        <p>
+          <strong>Real-time sports platform</strong><br/>
+          React · Redux Toolkit · WebSockets
+Node.js · PostgreSQL · Drizzle ORM
+        </p>
+        <p>
+          <a href="https://github.com/sahil-bainya/sportz-websockets" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://sportz-eight.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+          </a>
+        </p>
+      </div>
+    </td>
   </tr>
 </table>
+
 ---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -114,10 +145,8 @@
   <img src="https://streak-stats.demolab.com?user=sahil-bainya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
-
 ---
+
 <div align="center">
-
-
+  <i>Let's build something amazing together!</i>
 </div>
