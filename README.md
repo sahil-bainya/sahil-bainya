@@ -57,7 +57,6 @@
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
@@ -68,7 +67,7 @@
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="50%">
       <h3 align="center">UrbanNest</h3>
       <div align="center">
         <a href="https://urbannest-7oez.onrender.com" target="_blank">
@@ -88,7 +87,7 @@
         </p>
       </div>
     </td>
-    <td width="33%">
+    <td width="50%">
       <h3 align="center">InkFlow</h3>
       <div align="center">
         <a href="https://inkflow-black.vercel.app" target="_blank">
@@ -108,11 +107,14 @@
         </p>
       </div>
     </td>
-    <td width="33%">
+    
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">Sportz</h3>
       <div align="center">
         <a href="#" target="_blank">
-          <img width="1363" height="767" alt="Screenshot 2026-08-31 193316" src="https://github.com/user-attachments/assets/7247c498-3b5f-4df7-bcb9-73740f836a33" />
+          <img width="1363" width="100%" alt="Screenshot 2026-08-31 193316" src="https://github.com/user-attachments/assets/7247c498-3b5f-4df7-bcb9-73740f836a33" />
         </a>
         <p>
           <strong>Real-time sports platform</strong><br/>
@@ -129,6 +131,26 @@ Node.js · PostgreSQL · Drizzle ORM
         </p>
       </div>
     </td>
+    <td width="50%">
+      <h3 align="center">VertexCanvas</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img width="1351" height="100%" alt="Screenshot 2026-09-17 144104" src="https://github.com/user-attachments/assets/0131c106-5773-4290-9577-4825858da1eb" />
+        </a>
+        <p>
+          <strong>A real-time collaborative whiteboard </strong><br/>
+          React · Konva.js · Redux Toolkit · Node.js · Socket.io · MongoDB · Groq API
+        </p>
+        <p>
+          <a href="https://github.com/sahil-bainya/VertexCanvas" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://vertexcanvas-teal.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+          </a>
+        </p>
+      </div>
+    </td>
   </tr>
 </table>
 
@@ -137,16 +159,9 @@ Node.js · PostgreSQL · Drizzle ORM
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahil-bainya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-bainya&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=sahil-bainya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-<div align="center">
-  <i>Let's build something amazing together!</i>
-</div>
+
