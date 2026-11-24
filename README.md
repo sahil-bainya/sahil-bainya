@@ -66,6 +66,49 @@
 ## 🧩 Projects
 
 <table>
+    <tr>
+      <td width="50%">
+      <h3 align="center">VertexCanvas</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img width="1351" height="100%" alt="Screenshot 2026-09-17 144104" src="https://github.com/user-attachments/assets/0131c106-5773-4290-9577-4825858da1eb" />
+        </a>
+        <p>
+          <strong>A real-time collaborative whiteboard </strong><br/>
+          React · Konva.js · Redux Toolkit · Node.js · Socket.io · MongoDB · Groq API
+        </p>
+        <p>
+          <a href="https://github.com/sahil-bainya/VertexCanvas" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://vertexcanvas-teal.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Sportz</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img width="1363" width="100%" alt="Screenshot 2026-08-31 193316" src="https://github.com/user-attachments/assets/7247c498-3b5f-4df7-bcb9-73740f836a33" />
+        </a>
+        <p>
+          <strong>Real-time sports platform</strong><br/>
+          React · Redux Toolkit · WebSockets
+Node.js · PostgreSQL · Drizzle ORM
+        </p>
+        <p>
+          <a href="https://github.com/sahil-bainya/sportz-websockets" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://sportz-eight.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3 align="center">UrbanNest</h3>
@@ -108,49 +151,6 @@
       </div>
     </td>
     
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Sportz</h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img width="1363" width="100%" alt="Screenshot 2026-08-31 193316" src="https://github.com/user-attachments/assets/7247c498-3b5f-4df7-bcb9-73740f836a33" />
-        </a>
-        <p>
-          <strong>Real-time sports platform</strong><br/>
-          React · Redux Toolkit · WebSockets
-Node.js · PostgreSQL · Drizzle ORM
-        </p>
-        <p>
-          <a href="https://github.com/sahil-bainya/sportz-websockets" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <a href="https://sportz-eight.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-          </a>
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">VertexCanvas</h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img width="1351" height="100%" alt="Screenshot 2026-09-17 144104" src="https://github.com/user-attachments/assets/0131c106-5773-4290-9577-4825858da1eb" />
-        </a>
-        <p>
-          <strong>A real-time collaborative whiteboard </strong><br/>
-          React · Konva.js · Redux Toolkit · Node.js · Socket.io · MongoDB · Groq API
-        </p>
-        <p>
-          <a href="https://github.com/sahil-bainya/VertexCanvas" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <a href="https://vertexcanvas-teal.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-          </a>
-        </p>
-      </div>
-    </td>
   </tr>
 </table>
 
